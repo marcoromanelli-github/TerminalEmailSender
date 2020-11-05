@@ -45,5 +45,5 @@ delay interval in seconds (300 seconds in the example below):
 ```console
 foo@bar:~$ python test_wrapper.py -td 300
 ```
-A jupyter notebook implentation is suggested as well.
+A [jupyter notebook](/emailSender_jupiter_notebook) implementation is suggested as well.
 <!-- <sub><sup>The letter envelope template is courtesy of [psdgraphics](https://www.psdgraphics.com/). -->
