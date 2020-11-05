@@ -28,5 +28,3 @@ delay interval in seconds (300 seconds in the example below):
 ```console
 foo@bar:~$ python emailSender.py -td 300
 ```
-
-<sub><sup>The letter envelope template is courtesy of [psdgraphics](https://www.psdgraphics.com/).
