@@ -4,7 +4,7 @@
 
 
 # TerminalEmailSender
-Simple package which implements the functionality of a mail service provider usable as a python package and from CMI.
+Simple package which implements the functionality of a mail service provider usable as a python package and from CLI.
 
 <div align="center">
     <img src="img/automatic_mail_logo.jpeg" width="300" height=300/>
